@@ -1,5 +1,5 @@
-#Auto Basic project
+#Database Automation Project
 
-Basic Java Selenium Automation Project
+Database Automation Project
 
 [Christian Mallapre] (http://www.mallaprechristian@yahoo.com/) 
